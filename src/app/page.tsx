@@ -129,10 +129,7 @@ export default function Home() {
 			{/* Main content */}
 			<div className="flex flex-col items-center gap-8 opacity-80">
 				{/* Title */}
-				<h1
-					className="text-4xl md:text-5xl font-bold text-gray-800 [text-shadow:_-1px_-3px_5px_#f74877] 
-        tracking-wide opacity-90"
-				>
+				<h1 className="raffle-title-outline">
 					Sakura Store - Rifa Diciembre
 				</h1>
 
