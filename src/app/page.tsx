@@ -11,7 +11,7 @@ const ANIMATION_DURATION_SECONDS = 10;
 
 // Background image - Uses /bg.png as the background
 const BACKGROUND_CLASS = "bg-cover bg-center bg-no-repeat";
-const BACKGROUND_STYLE = { backgroundImage: "url('/public/bg.png')" };
+const BACKGROUND_STYLE = { backgroundImage: "url('/bg.png')" };
 // ============================================
 
 export default function Home() {
